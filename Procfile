@@ -1,0 +1,1 @@
+web: gunicorn apirest_friendship.wsgi
